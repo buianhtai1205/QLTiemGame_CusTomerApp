@@ -1,0 +1,17 @@
+D:\UTE\HQTCSDL\CustomerApp\CustomerApp\obj\Debug\CustomerApp.csproj.AssemblyReference.cache
+D:\UTE\HQTCSDL\CustomerApp\CustomerApp\obj\Debug\CustomerApp.csproj.SuggestedBindingRedirects.cache
+D:\UTE\HQTCSDL\CustomerApp\CustomerApp\obj\Debug\CustomerApp.Properties.Resources.resources
+D:\UTE\HQTCSDL\CustomerApp\CustomerApp\obj\Debug\CustomerApp.csproj.GenerateResource.cache
+D:\UTE\HQTCSDL\CustomerApp\CustomerApp\obj\Debug\CustomerApp.csproj.CoreCompileInputs.cache
+D:\UTE\HQTCSDL\CustomerApp\CustomerApp\bin\Debug\CustomerApp.exe.config
+D:\UTE\HQTCSDL\CustomerApp\CustomerApp\bin\Debug\CustomerApp.exe
+D:\UTE\HQTCSDL\CustomerApp\CustomerApp\bin\Debug\CustomerApp.pdb
+D:\UTE\HQTCSDL\CustomerApp\CustomerApp\bin\Debug\Guna.UI2.dll
+D:\UTE\HQTCSDL\CustomerApp\CustomerApp\obj\Debug\CustomerApp.FormLogin.resources
+D:\UTE\HQTCSDL\CustomerApp\CustomerApp\obj\Debug\CustomerApp.FormHome.resources
+D:\UTE\HQTCSDL\CustomerApp\CustomerApp\obj\Debug\CustomerApp.csproj.CopyComplete
+D:\UTE\HQTCSDL\CustomerApp\CustomerApp\obj\Debug\CustomerApp.exe
+D:\UTE\HQTCSDL\CustomerApp\CustomerApp\obj\Debug\CustomerApp.pdb
+D:\UTE\HQTCSDL\CustomerApp\CustomerApp\obj\Debug\CustomerApp.FormCard.resources
+D:\UTE\HQTCSDL\CustomerApp\CustomerApp\obj\Debug\CustomerApp.FormDrink.resources
+D:\UTE\HQTCSDL\CustomerApp\CustomerApp\obj\Debug\CustomerApp.FormFood.resources
