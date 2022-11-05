@@ -11,6 +11,8 @@
     <li>Order Thức ăn, Nước uống, Card game</li>
     <li>Tắt máy, tính tiền, trừ tiền trong tài khoản</li>
  </ul>
+ ![image](https://user-images.githubusercontent.com/75308243/200115064-6a4dd0e9-6be1-443d-b71e-0cded695817d.png)
+ ![image](https://user-images.githubusercontent.com/75308243/200115084-0e168b1c-f552-40db-b067-e37829fe81de.png)
  
 <h1>Tham khảo</h1>
 <ul>
