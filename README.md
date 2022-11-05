@@ -13,7 +13,9 @@
  </ul>
  
 <h1>Tham khảo</h1>
-- Nguồn giao diện: Tham khảo am-523
-- Link git: https://github.com/am-523
-- Link tham khảo giao diện Home: https://github.com/am-523/Cryptocurrency-Mining-Dashboard
-- Link tham khảo giao diện đăng nhập: https://github.com/am-523/Winform-Login-UI-Design
+<ul>
+ <li>Nguồn giao diện: Tham khảo am-523</li>
+ <li>Link git: https://github.com/am-523</li>
+ <li>Link tham khảo giao diện Home: https://github.com/am-523/Cryptocurrency-Mining-Dashboard</li>
+ <li>Link tham khảo giao diện đăng nhập: https://github.com/am-523/Winform-Login-UI-Design</li>
+ </ul>
