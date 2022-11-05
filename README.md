@@ -12,8 +12,8 @@
     <li>Tắt máy, tính tiền, trừ tiền trong tài khoản</li>
  </ul>
  
- <h1>Tham khảo</h1>
- - Nguồn giao diện: Tham khảo am-523
- - Link git: https://github.com/am-523
- - Link tham khảo giao diện Home: https://github.com/am-523/Cryptocurrency-Mining-Dashboard
- - Link tham khảo giao diện đăng nhập: https://github.com/am-523/Winform-Login-UI-Design
+<h1>Tham khảo</h1>
+- Nguồn giao diện: Tham khảo am-523
+- Link git: https://github.com/am-523
+- Link tham khảo giao diện Home: https://github.com/am-523/Cryptocurrency-Mining-Dashboard
+- Link tham khảo giao diện đăng nhập: https://github.com/am-523/Winform-Login-UI-Design
