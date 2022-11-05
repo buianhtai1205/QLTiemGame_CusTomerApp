@@ -9,6 +9,7 @@
     <li>Đăng nhập vào máy</li>
     <li>Kiểm tra thời gian còn lại của tài khoản</li>
     <li>Order Thức ăn, Nước uống, Card game</li>
+    <li>Tắt máy, tính tiền, trừ tiền trong tài khoản</li>
  </ul>
  
  - Nguồn giao diện: Tham khảo am-523
