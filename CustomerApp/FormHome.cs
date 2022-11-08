@@ -20,7 +20,15 @@ namespace CustomerApp
         public FormHome()
         {
             InitializeComponent();
+
+            dbHome.MoMay(FormLogin.ma_may);
+            if (FormLogin.username != "NULL")
+            {
+                dbHome.CapNhapKhachHangSuDung(FormLogin.ma_may, FormLogin.username);
+            }
+
             int so_phut_con_lai = dbHome.GetMinute(FormLogin.username);
+            this.lbAccount.Text = "Tên đăng nhập: " + FormLogin.username;
             hour = so_phut_con_lai / 60;
             minute = so_phut_con_lai - hour * 60;
 
@@ -46,6 +54,7 @@ namespace CustomerApp
             if (hour < 0)
             {
                 this.timeCount.Stop();
+                dbHome.TatMay(FormLogin.ma_may);
                 this.Close();
             }
             minute = minute - 1;
@@ -61,6 +70,7 @@ namespace CustomerApp
 
         private void btnClose_Click(object sender, EventArgs e)
         {
+            dbHome.TatMay(FormLogin.ma_may);
             this.Close();
         }
 
@@ -80,6 +90,12 @@ namespace CustomerApp
         {
             FormCard formCard = new FormCard();
             formCard.ShowDialog();
+        }
+
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+            dbHome.TatMay(FormLogin.ma_may);
+            this.Close();
         }
     }
 }

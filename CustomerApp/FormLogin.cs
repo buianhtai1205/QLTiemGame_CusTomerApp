@@ -15,7 +15,7 @@ namespace CustomerApp
     {
         BLLogin dbLogin = new BLLogin();
         public bool isLogined = false;
-        public static string username;
+        public static string username = "NULL";
         public static string ma_may = "MAY1";
         public FormLogin()
         {
